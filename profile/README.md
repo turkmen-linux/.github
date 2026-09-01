@@ -9,7 +9,7 @@
 | Cinnamon   | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/cinnamon/turkmen-cinnamon.iso) | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/cinnamon/turkmen-cinnamon-firmware.iso) |
 | Sway       | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/sway/turkmen-sway.iso)         | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/sway/turkmen-sway-firmware.iso) |
 | Kde        | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/kde/turkmen-kde.iso)           | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/kde/turkmen-kde-firmware.iso) |
-| Hyperland  | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/hyprland/turkmen-hyprland.iso) | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/hyprland/turkmen-hyprland-firmware.iso) |
+| Hyprland   | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/hyprland/turkmen-hyprland.iso) | [Download](https://github.com/turkmen-linux/iso-profile/releases/download/hyprland/turkmen-hyprland-firmware.iso) |
 
 # Login Information
 ```yaml
